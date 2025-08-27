@@ -1,5 +1,5 @@
 function Home () {
-    return <h1>Nome: Lucca</h1>
+    return <h1>Lucca</h1>
 }
 
 export default Home
