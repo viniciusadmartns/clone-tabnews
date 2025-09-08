@@ -1,6 +1,9 @@
-function Home () {
-    return <h1>Lucca</h1>
+function Home() {
+  return <h1>Lucca</h1>;
 }
 
-export default Home
+function teste() {
+  console.log("identação errada");
+}
 
+export default Home;
